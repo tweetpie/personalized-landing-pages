@@ -1,0 +1,326 @@
+n_gram,synonym,category
+manufacturer coupon,coupon,card
+prescription/health card,"health savings, health card",card
+rx affiliate programs,"health savings, health card",card
+savings card,"health savings, health card",card
+specialty rx,"health savings, health card",card
+startup health company,"health savings, health card",card
+competition prices,cost saver,card
+consumer choice,cost saver,card
+consumer empowerment,cost saver,card
+cost savings,cost saver,card
+drug rebates,cost saver,card
+empathy cards,cost saver,card
+health care savings,cost saver,card
+insulin savings program,cost saver,card
+manufacturer copay offer,cost saver,card
+manufacturer savings cards,cost saver,card
+membership prices,cost saver,card
+money saver,cost saver,card
+pharmacy membership programs,cost saver,card
+prescription savings,cost saver,card
+coupon cards,coupon,card
+coupon prices,coupon,card
+coupon provider,coupon,card
+deal-finding services,coupon,card
+pharmacy coupon,coupon,card
+price lookup,coupon,card
+proair coupon,coupon,card
+protonix coupon,coupon,card
+qualifying items,coupon,card
+referral coupons,coupon,card
+discount card,discount card,card
+discount cards,discount card,card
+discount program,discount card,card
+discount programs,discount card,card
+discount providers,discount card,card
+discount services,discount card,card
+discount,discount card,card
+insulin discount program,discount card,card
+medication discount,discount card,card
+medication discount card,discount card,card
+membership discount programs,discount card,card
+pharmacy discount cards,discount card,card
+pharmacy discount programs,discount card,card
+premium savings program,discount card,card
+prescription discounts,discount card,card
+prescription program,discount card,card
+prescriptions discounts,discount card,card
+rebate system,discount card,card
+referral discount,discount card,card
+referral program,discount card,card
+rx coupon,discount card,card
+rx discount,discount card,card
+rx discounts,discount card,card
+savings card monitor,discount card,card
+card,health card,card
+card information,health card,card
+cards,health card,card
+club prices,health card,card
+copay cards,health card,card
+cvs caremark plan,health card,card
+rx card,health card,card
+advantage plan,"health savings, health card",card
+affiliate program,"health savings, health card",card
+patient assistance programs,"health savings, health card",card
+cash,cash price,cost
+cash money,cash price,cost
+cash pay,cash price,cost
+cash price,cash price,cost
+cash prices,cash price,cost
+copay-insurance,copay,cost
+c-pay,copay,cost
+day co-pay,copay,cost
+insurance copay,copay,cost
+insurance copays,copay,cost
+copay,"copay, insurance coverage",cost
+cost,cost medication,cost
+cost healthcare,cost medication,cost
+cost information,cost medication,cost
+cost medication,cost medication,cost
+cost medications,cost medication,cost
+cost medications sales,cost medication,cost
+cost reasons,cost medication,cost
+cost/quality options,cost medication,cost
+costs,cost medication,cost
+drive prices,cost medication,cost
+med costs,cost medication,cost
+medication cost,cost medication,cost
+medication costs,cost medication,cost
+medication prices,cost medication,cost
+medications cost,cost medication,cost
+medicine cost,cost medication,cost
+medicine prices,cost medication,cost
+prescription cost,cost medication,cost
+prescription costs,cost medication,cost
+prescription drug costs,cost medication,cost
+prescription drug prices,cost medication,cost
+prescription drug pricing,cost medication,cost
+prescription price,cost medication,cost
+rx cost analysis,cost medication,cost
+rx costs,cost medication,cost
+rx plan,cost medication,cost
+rx price,cost medication,cost
+rx prices,cost medication,cost
+deductible,deductible,cost
+deductibles,deductible,cost
+insurance deductibles,deductible,cost
+difference,difference,cost
+differences,difference,cost
+dollar difference,difference,cost
+anxiety medication costs,drug price,cost
+brand name price,drug price,cost
+commercial payments,drug price,cost
+comparison shop,drug price,cost
+competition,drug price,cost
+condition others,drug price,cost
+drug cost,drug price,cost
+insulin prices,"drug price, insulin",cost
+expense,expense,cost
+expenses,expense,cost
+health care cost,health costs,cost
+health costs,health costs,cost
+healthcare cost,health costs,cost
+healthcare costs,health costs,cost
+healthcare expenses,health costs,cost
+healthcare prices,health costs,cost
+healthcare quality cost,health costs,cost
+hospital bills,health costs,cost
+hospital funds,health costs,cost
+patients money,health costs,cost
+treatment costs,health costs,cost
+healthcare cost,healthcare cost,cost
+pocket healthcare costs,healthcare cost,cost
+insurance coverage,insurance coverage,cost
+bill,insurance price,cost
+billing,insurance price,cost
+insurance company price,insurance price,cost
+overpayments,cost medication,cost
+prescription costs,cost medication,cost
+medication savings,cost saver,cost
+price cuts,cost saver,cost
+price drop,cost saver,cost
+price match,cost saver,cost
+promo,cost saver,cost
+healthcare transformer,healthcare,health
+aging,,health
+memory bracelets,,health
+weight,,health
+wellbeing,,health
+beer,alcohol,health
+worry,anxiety,health
+withdrawals,depression,health
+disabilities,disability,health
+wheelchair,disability,health
+diets,diet,health
+athletes,exercise,health
+cycling,exercise,health
+exercise,exercise,health
+fitness,exercise,health
+fitness resolutions,exercise,health
+gym,exercise,health
+power soccer,exercise,health
+sports,exercise,health
+triathlete,exercise,health
+walk,exercise,health
+weightlifting,exercise,health
+workout,exercise,health
+goals,goal,health
+honey,honeybee,health
+weight loss medication contrave,weight loss,health
+weight loss meds,weight loss,health
+weight loss options,weight loss,health
+meditation,yoga,health
+beauty,,health
+bed rest,,health
+benefit,,health
+bionic,,health
+blessing,,health
+comedians,,health
+recovery,,health
+roses,,health
+self-care,,health
+wellness issue,,health
+work/life balance,,health
+contraception insurance coverage,"contraception, insurance coverage",insurance
+insurance co-pay,"copay, insurance coverage",insurance
+health insurer,insurance company,insurance
+insurance companies,insurance company,insurance
+insurance companies,insurance company,insurance
+insurance corporations,insurance company,insurance
+insurance giants,insurance company,insurance
+insurance industry,insurance company,insurance
+insurance provider,insurance company,insurance
+insurance providers,insurance company,insurance
+insurance deductible,"insurance company, deductible",insurance
+coverage,insurance coverage,insurance
+coverage networks,insurance coverage,insurance
+coverage sitch,insurance coverage,insurance
+drug coverage,insurance coverage,insurance
+drug plan,insurance coverage,insurance
+employer plans,insurance coverage,insurance
+enrollment period,insurance coverage,insurance
+government health plan,insurance coverage,insurance
+health coverage,insurance coverage,insurance
+health insurance,insurance coverage,insurance
+health plan,insurance coverage,insurance
+healthcare options,insurance coverage,insurance
+insurance,insurance coverage,insurance
+insurance benefits,insurance coverage,insurance
+insurance information,insurance coverage,insurance
+insurance pharmacy gag clauses,insurance coverage,insurance
+insurance plan,insurance coverage,insurance
+insurance premiums,insurance coverage,insurance
+insurance status,insurance coverage,insurance
+insurance terminology,insurance coverage,insurance
+medicare,insurance coverage,insurance
+medication compliance,insurance coverage,insurance
+antibiotic,antibiotic,medication
+antibiotic overuse,antibiotic,medication
+antibiotic resistance,antibiotic,medication
+antibiotics,antibiotic,medication
+doxycycline,antibiotic,medication
+anticoagulant drugs,anticoagulant,medication
+anticoagulant medications,anticoagulant,medication
+anticoagulants,anticoagulant,medication
+birthcontrol,birth control,medication
+blood pressure drug,blood pressure drug,medication
+blood pressure drugs,blood pressure drug,medication
+blood pressure drugs stack,blood pressure drug,medication
+blood pressure medication,blood pressure drug,medication
+blood pressure medications,blood pressure drug,medication
+blood pressure medicine,blood pressure drug,medication
+blood pressure meds,blood pressure drug,medication
+cancer drugs,,medication
+cancer medications,,medication
+cancer meds,,medication
+cancer treatments,,medication
+cannabis,,medication
+cannabis-derived medication,,medication
+carvedilol,,medication
+cbd,,medication
+c-braces,,medication
+chantix,,medication
+chemo,,medication
+chemo,,medication
+cholesterol drug,,medication
+cholesterol medicines,,medication
+cholesterol treatment,,medication
+cholesterol treatment ellazor,,medication
+cialis,,medication
+cinryze,,medication
+clarinex,,medication
+day glucose monitoring system,,medication
+decongestants,,medication
+depressants,,medication
+dexilant,,medication
+diabetes drug,,medication
+diabetes medication,,medication
+diabetes medication,,medication
+diabetes medications,,medication
+diabetes medicine,,medication
+diabetes meds,,medication
+diabetes meds,,medication
+diabetes test strips,,medication
+dialysis,,medication
+cancer patient,"cancer, patients",patients
+consumer guidance,consumer guidance,patients
+customers information,consumer guidance,patients
+healthcare consumer,"consumer, health",patients
+dementia sufferers,dementia,patients
+diabetes patient,"diabete, patient",patients
+patients health,"patients, health",patients
+sleep apnea sufferers,sleep apnea,patients
+community health center patients,,patients
+patient,,patients
+patient solutions,,patients
+patients,,patients
+patients thousands,,patients
+pharmacy patients,,patients
+race patients,,patients
+sufferer,,patients
+sufferers,,patients
+consumer experience,customer care,service
+consumer healthcare,customer care,service
+consumer reports,customer care,service
+consumer review,customer care,service
+customer care,customer care,service
+customer care team,customer care,service
+customer experience,customer care,service
+customer experience team,customer care,service
+customer service,customer care,service
+customer service person,customer care,service
+customer service representative,customer care,service
+customer service specialists,customer care,service
+customer service team,customer care,service
+customer support team,customer care,service
+drug delivery,delivery,service
+home delivery experience,delivery,service
+home delivery service,delivery,service
+mail delivery,delivery,service
+mail delivery process,delivery,service
+mail order,delivery,service
+mail order places,delivery,service
+mail pharmacy,delivery,service
+chronic disease,chronic,chronic
+chronic,chronic,chronic
+persistent pain,pain,chronic
+long-lasting condition,chronic,chronic
+ongoing symptoms,symptom,chronic
+prolonged illness,chronic,chronic
+enduring discomfort,chronic,chronic
+recurrent health issues,chronic,chronic
+perpetual challenges,chronic,chronic
+sustained affliction,chronic,chronic
+lingering ailments,chronic,chronic
+incessant discomfort,pain,chronic
+continuous sickness,chronic,chronic
+unrelenting malaise,chronic,chronic
+inveterate health conditions,pain,chronic
+intractable diseases,pain,chronic
+stubborn disorders,chronic,chronic
+incurable afflictions,chronic,chronic
+constant infirmities,chronic,chronic
+uninterrupted suffering,pain,chronic
+unyielding medical challenges,chronic,chronic
+endemic health issues,chronic,chronic
