@@ -24,6 +24,17 @@ The proposed approach comprises interconnected components that produce a customi
 If you use this code or find it useful in your research, please consider citing:
 
 ```
+@article{ccetinkaya2024targeted,
+  title={Targeted marketing on social media: Utilizing text analysis to create personalized landing pages},
+  author={{\c{C}}etinkaya, Yusuf M{\"u}cahit and K{\"u}lah, Emre and Toroslu, {\.I}smail Hakk{\i} and Davulcu, Hasan},
+  journal={Social Network Analysis and Mining},
+  volume={14},
+  number={1},
+  pages={1--15},
+  year={2024},
+  publisher={Springer}
+}
+
 @inproceedings{ccetinkaya2022coherent,
   title={Coherent Personalized Paragraph Generation for a Successful Landing Page},
   author={{\c{C}}etinkaya, Yusuf M{\"u}cahit and Toroslu, {\.I}smail Hakk{\i} and Davulcu, Hasan},
@@ -31,12 +42,6 @@ If you use this code or find it useful in your research, please consider citing:
   pages={252--255},
   year={2022},
   organization={IEEE}
-}
-
-@article{ccetinkaya2023targeted,
-  title={Targeted Marketing on Social Media: Utilizing Text Analysis to Create Personalized Landing Pages},
-  author={{\c{C}}etinkaya, Yusuf M{\"u}cahit and K{\"u}lah, Emre and Toroslu, {\.I}smail Hakk{\i} and Davulcu, Hasan},
-  year={2023}
 }
 ```
 
